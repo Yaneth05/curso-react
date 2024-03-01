@@ -1,0 +1,19 @@
+.VehicleView {
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .VehicleView img {
+    display: block;
+    max-width: 100%;
+    border-radius: 120px;
+  }
+
+  .VehicleView h1 {
+    color: #23c0d8;
+  }
+  
+  .VehicleView h2 {
+    color: #72e751;
+  }
